@@ -87,23 +87,19 @@ En proceso de diseño UX para crear la experiencia más cercana al usuario con e
 
 Obtendremos recursos del framework Boostrap para darle al usuario cercanía con las diferentes páginas web ya existentes y que así pueda manejearse de forma fluida.
 
-En el proceso de Front-End se ocupará el editor de código Visual Studio Code para dar las funcionalidades e interacciónes solicitadas. 
+En el proceso de Front-End se ocupará el editor de código Visual Studio Code para dar las funcionalidades e interacciónes solicitadas.
 
-Para obtener las películas y series se trabajará con datos obtenidos desde la API de OMDB (The Open Movie Database). 
+Para obtener las películas y series se trabajará con datos obtenidos desde la API de OMDB (The Open Movie Database).
 
 * Asigación de Tareas
 
-Cada integrante contará con una tarea para desarrollar, la que optimizará el proceso y contribuirá al resultado final. 
+Cada integrante contará con una tarea para desarrollar, la que optimizará el proceso y contribuirá al resultado final.
 
-- [Consuelo](https://github.com/consuelowevar) 
-
-- [Ieva](https://github.com/ievastumpe) Aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays. 
-
-- [Ruth](https://github.com/RuthMaureira) 
-
-- [Fernanda](https://github.com/fer221) 
-
-- [Camila](https://github.com/CamiPerezv) Analisis de usuario (historia de usuario y criterios, test de usabilidad), creacion de diseño y prototipos de baja y alta fidelidad (decisiones de diseño,iteaciones), realizaciòn de readme.
+- Consuelo:
+- Ieva: aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays.
+- Ruth: maquetación html y css en base a diseño, análisis y pruebas con API Omdb y funcionalidad módulos js.
+- Fernanda:
+- Camila: Analisis de usuario (historias de usuario, test de usabilidad), creacion de diseño y prototipos(desiciones de diseño,iteaciones), realizaciòn de readme.
 
  ## **Conclusión**
 

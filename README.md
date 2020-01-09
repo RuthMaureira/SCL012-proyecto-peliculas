@@ -97,11 +97,7 @@ Cada integrante contará con una tarea para desarrollar, la que optimizará el p
 
 - [Consuelo](https://github.com/consuelowevar) Recopilación de información películas y maquetación y aplicación de CSS a card movie.
 
-<<<<<<< HEAD
 - [Ieva](https://github.com/ievastumpe) Aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays.
-=======
-- [Ieva](https://github.com/ievastumpe) Aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays. 
->>>>>>> 5e1834831793a9683a962b9b50c0a5712d90be2d
 
 - [Ruth](https://github.com/RuthMaureira) Maquetación html y css en base a diseño, análisis y pruebas con API Omdb y funcionalidad módulos js.
 

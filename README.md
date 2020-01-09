@@ -52,7 +52,7 @@ Dado a que que se trabajará con poster de diversos estilos y colores. Que será
 * Prototipo de baja fidelidad
 
 
-![prototiposketch1]()
+![prototiposketch1](https://github.com/RuthMaureira/SCL012-proyecto-peliculas/blob/master/img/sketch.png)
 
 
 
@@ -95,13 +95,15 @@ Para obtener las películas y series se trabajará con datos obtenidos desde la 
 
 Cada integrante contará con una tarea para desarrollar, la que optimizará el proceso y contribuirá al resultado final.
 
-- Consuelo: Recopilación de información películas y maquetación y aplicación de CSS a card movie.
-- Ieva: aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays.
-- Ruth: 
-- Fernanda: modificar la carta de presentacion de las peliculas. buscar informacion sobre los top 10 mejores series de los generos Comedia, Acción, Thriller, crear arrays.
-- Ruth: maquetación html y css en base a diseño, análisis y pruebas con API Omdb y funcionalidad módulos js.
-- Fernanda:
-- Camila: Analisis de usuario (historias de usuario, test de usabilidad), creacion de diseño y prototipos(desiciones de diseño,iteaciones), realizaciòn de readme.
+- [Consuelo](https://github.com/consuelowevar) Recopilación de información películas y maquetación y aplicación de CSS a card movie.
+
+- [Ieva](https://github.com/ievastumpe) Aplicar fetch y API (OMDB) para traer data sobre series & peliculas; buscar información sobre los top 10 mejores peliculas de genero Comedia, Acción, Thriller, crear arrays. 
+
+- [Ruth](https://github.com/RuthMaureira) Maquetación html y css en base a diseño, análisis y pruebas con API Omdb y funcionalidad módulos js.
+
+- [Fernanda](https://github.com/fer221) Modificar la carta de presentacion de las peliculas. buscar informacion sobre los top 10 mejores series de los generos Comedia, Acción, Thriller, crear arrays.
+
+- [Camila](https://github.com/CamiPerezv) Analisis de usuario (historia de usuario y criterios, test de usabilidad), creacion de diseño y prototipos de baja y alta fidelidad (decisiones de diseño,iteaciones), realizaciòn de readme.
 
  ## **Conclusión**
 

@@ -1,13 +1,14 @@
 /* Ordenar alfabéticamente, ID, altura y peso */
 
-/* A-Z: Si a<b return -1, se sitúa a en un indice menor que b. Es decir, a viene primero.
-Si a=b retorna 0, se deja a y b sin cambios entre ellos, pero ordenados con respecto a todos los elementos diferentes.
-Si a>b return 1, se sitúa b en un indice menor que a.*/
+/* A-Z: Si a<b return -1, se sitúa a en un indice menor que b. Es decir, a viene primero. */
+/* Si a=b retorna 0, se deja a y b sin cambios entre ellos, */
+/* pero ordenados con respecto a todos los elementos diferentes. */
+/* Si a>b return 1, se sitúa b en un indice menor que a. */
 
-export let orderMovie = (dataMovie, sortBy, sortOrder) => {
+export const orderMovie = (dataMovie, sortBy, sortOrder) => {
 
-  /*Ordenar alfabeticamente */
-  if (sortBy === "title" && sortOrder === "A-Z") {
+  /* Ordenar alfabeticamente */
+  if (sortBy === 'title' && sortOrder === 'A-Z') {
     return dataMovie.sort(function(a, b) {
       if (a.Title == b.Title) {
         return 0;
@@ -52,13 +53,10 @@ export let orderMovie = (dataMovie, sortBy, sortOrder) => {
   } else if (sortBy == "metascore" && sortOrder == "desc") {
     return dataMovie.sort((a, b) => (parseFloat(b.Metascore) - parseFloat(a.Metascore)));
   }
-
   /*Ordenar por año */
   else if (sortBy == "year" && sortOrder == "asc") {
     return dataMovie.sort((a, b) => (a.Year - b.Year));
   } else if (sortBy == "year" && sortOrder == "desc") {
     return dataMovie.sort((a, b) => (b.Year - a.Year));
   }
-
-
 };
